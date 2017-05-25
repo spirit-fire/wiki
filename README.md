@@ -35,7 +35,7 @@
 
 ## 存储/缓存
 * [redis](https://github.com/spirit-fire/wiki/wiki/redis) 
-    > [redis简介]
+    > [redis简介](https://github.com/spirit-fire/wiki/wiki/redis_introduction)
     
     > [redis示例]
 * [pika]
