@@ -34,7 +34,10 @@
 * [jstorm]
 
 ## 存储/缓存
-* [redis]
+* [redis](https://github.com/spirit-fire/wiki/wiki/redis) 
+    > [redis简介]
+    
+    > [redis示例]
 * [pika]
 * [mc]
 * [mysql]
