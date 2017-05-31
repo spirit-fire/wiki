@@ -21,6 +21,7 @@
 
 ## 组件
 * [dubbo]
+* [netty]
 * [akka]
 * [kafka]
 * [zookeeper](https://github.com/spirit-fire/wiki/wiki/storm#1zookeeper安装)
@@ -52,6 +53,10 @@
 * [rocketmq]
 * [mcq]
 * [rabbitmq]
+
+## JVM
+* [gc]
+* [thread pool]
 
 ## 其他
 * [qrcode zbar](https://github.com/spirit-fire/wiki/wiki/qrcode_zbar)
