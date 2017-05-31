@@ -39,7 +39,7 @@
     
     > [redis示例]
 * [pika]
-* [mc]
+* [mc](https://github.com/spirit-fire/wiki/wiki/mc)
 * [mysql]
 * [mongodb]
 * [hbase]
