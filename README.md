@@ -38,7 +38,7 @@
     > [redis简介](https://github.com/spirit-fire/wiki/wiki/redis_introduction)
     
     > [redis示例]
-* [pika]
+* [pika](https://github.com/spirit-fire/wiki/wiki/pika)
 * [mc](https://github.com/spirit-fire/wiki/wiki/mc)
 * [mysql]
 * [mongodb]
