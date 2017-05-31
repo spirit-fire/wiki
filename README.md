@@ -55,7 +55,7 @@
 * [rabbitmq]
 
 ## JVM
-* [gc]
+* [gc](https://github.com/spirit-fire/wiki/wiki/gc)
 * [thread pool]
 
 ## 其他
