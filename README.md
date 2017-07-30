@@ -59,9 +59,9 @@
 * [thread pool]
 
 ## docker
-* [redis]
-* [mysql]
-* [mcq]
+* [redis](https://github.com/spirit-fire/wiki/wiki/docker-redis)
+* [mysql](https://github.com/spirit-fire/wiki/wiki/docker-mysql)
+* [mcq](https://github.com/spirit-fire/wiki/wiki/docker-mcq)
 
 ## 其他
 * [qrcode zbar](https://github.com/spirit-fire/wiki/wiki/qrcode_zbar)
